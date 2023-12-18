@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio-oficial/static/css/main.a4239037.css",
+    "main.js": "/Portfolio-oficial/static/js/main.a0a80506.js",
+    "static/media/coffe-tela.png": "/Portfolio-oficial/static/media/coffe-tela.fba4884c1ead54616189.png",
+    "static/media/visualpage.png": "/Portfolio-oficial/static/media/visualpage.e0cd9e4b73d8b2d90ec6.png",
+    "static/media/Imagem-login.png": "/Portfolio-oficial/static/media/Imagem-login.ad88acc5c01ea2300c55.png",
+    "static/media/Currículo - DEV.pdf": "/Portfolio-oficial/static/media/Currículo - DEV.f1ba88a6d1195f71011d.pdf",
+    "static/media/instagram.png": "/Portfolio-oficial/static/media/instagram.776d16d0e9daa177afd5.png",
+    "static/media/github.png": "/Portfolio-oficial/static/media/github.44eee0c4a6c25b0d7347.png",
+    "static/media/linkedin (1).png": "/Portfolio-oficial/static/media/linkedin (1).de00807355838b1b7f2e.png",
+    "static/media/logo.png": "/Portfolio-oficial/static/media/logo.103c767f21058379c048.png",
+    "static/media/profile.jpg": "/Portfolio-oficial/static/media/profile.269ca3afda63dc419078.jpg",
+    "static/media/logos_react.svg": "/Portfolio-oficial/static/media/logos_react.97dddcb26688470f57fe1438755bd69f.svg",
+    "static/media/vscode-icons_file-type-vscode.svg": "/Portfolio-oficial/static/media/vscode-icons_file-type-vscode.a1040890cfba8a2e7e2adb52e4daaa74.svg",
+    "static/media/vscode-icons_file-type-js-official.svg": "/Portfolio-oficial/static/media/vscode-icons_file-type-js-official.ed1aa5f2b2ca240211bbcd6dd2476f1c.svg",
+    "static/media/akar-icons_github-fill.svg": "/Portfolio-oficial/static/media/akar-icons_github-fill.8810ce6585b7925df85f980f969bfb75.svg",
+    "static/media/vscode-icons_file-type-css.svg": "/Portfolio-oficial/static/media/vscode-icons_file-type-css.5fcd4c72d8f35ceda56366ebd6d282a7.svg",
+    "static/media/imght.svg": "/Portfolio-oficial/static/media/imght.c86e13d1898e8bbce843c44a9ed5541b.svg",
+    "index.html": "/Portfolio-oficial/index.html",
+    "static/media/icons8-vue-js.svg": "/Portfolio-oficial/static/media/icons8-vue-js.794e612aa9ab0124da8efae55eef549a.svg",
+    "main.a4239037.css.map": "/Portfolio-oficial/static/css/main.a4239037.css.map",
+    "main.a0a80506.js.map": "/Portfolio-oficial/static/js/main.a0a80506.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4239037.css",
+    "static/js/main.a0a80506.js"
+  ]
+}
