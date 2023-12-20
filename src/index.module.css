@@ -201,6 +201,7 @@ h3 {
   display: flex;
   margin-top: 10px;
   align-items: center;
+  width: 80%;
 }
 
 .h2sobre {
@@ -250,19 +251,18 @@ h3 {
 }
 
 .telas {
-    width: 350px;
     height: 240px;
     padding: 0;
     align-items: center;
-    margin: 5px;
+    margin: 0.2rem;
 }
 
 .portfolio_description{
-  margin-left: 1rem;
+  margin: 0;
 }
 .section_container_1 {
   align-items: center;
-  margin-left: 120px;
+  margin-left: 20px;
 
 }
 .Contatos {
@@ -357,7 +357,7 @@ footer {
     width: 200px;
     margin: 1rem;
   }
-  #tecnologias {
+  .tecnologias {
     flex-direction: column;
     align-items: center;
     margin: 0 1rem;
@@ -365,14 +365,13 @@ footer {
   }
   .projetos {
     align-items: center;
+    
   }
 
 
   .container_project{
-    flex-direction: column;
-    align-items: center;
-    margin-left: 10px;
-    display: flex;
+    width: auto;
+    margin-left: -8rem;
   }
 
   .portfolio-img {
@@ -415,11 +414,12 @@ footer {
 
   .telas{
     width: 500px;
-    margin: 1rem;
+    margin: 2rem;
   }
   
   .portfolio-img{
     flex-direction: column;
+    
   }
 
   .Contatos{
@@ -439,31 +439,35 @@ footer {
   }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1300px) {
   .body {
     margin: 0;
     align-items: center;
   }
 
-  #sobre {
+  .sobre {
     flex-direction: column;
     align-items: center;
+    margin: auto;
   }
 
-  .container_project{
-    width: auto;
-    margin-left: -8rem;
+  .conteudoSobre {
+    flex-direction: column;
+    align-items: center;
+    margin-left: -6rem;
+    width: 80%;
   }
 
   .telas {
-    width: auto;
-    margin-left: 2rem;
     align-items: center;
+    width: 100px;
+    height: 100px;
 
   }
-  #contatos {
+  .contatos {
     margin-top: 75rem;
   }
+  
   
 }
 
