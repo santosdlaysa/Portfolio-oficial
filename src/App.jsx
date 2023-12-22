@@ -3,7 +3,6 @@ import Nav from "./components/Nav";
 import logo from "./icons/logo.png"; // Importe a imagem
 import Styles from '../src/index.module.css';
 import Perfil from "./components/Perfil";
-import Tecnologias from "./components/Tecnologias";
 import Sobre from "./components/Sobre";
 import Projetos from "./components/Projetos";
 import Contatos from "./components/Contatos";
@@ -20,7 +19,6 @@ function App() {
         </nav>
       </header>
       <Perfil />
-      <Tecnologias />
       <Sobre />
       <Projetos />
       <Contatos />
