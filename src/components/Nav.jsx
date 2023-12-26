@@ -1,24 +1,42 @@
-import Styles from '../index.module.css';
-import React from 'react';
+import Styles from "../index.module.css";
+import React from "react";
+import { Link } from "react-router-dom"; // Add the missing import statement
 
+import logo from "../icons/logo.png";
 
-function Nav(){
-    return(
-        <>
-             <nav>
-        <a href="santosdlaysa.github.io/Portfolio-oficial" className={Styles.navButtons}>Home</a>
-        <a href="./Tecnologias" className={Styles.navButtons}>Tecnologias</a>
-        <a href="#Sobre" className={Styles.navButtons}>Sobre mim</a>
-        <a href="#Contatos" className={Styles.navButtons}>Contatos</a>
-        <a href='#projetos' className={Styles.buttonProjeto}>Projetos/</a>
-      </nav>
-      <div class="nav__btns">
-        <i class="uil uil-moon change-theme" id="theme-button"></i>
-        </div>
-        </>
-        
-    );
-
+function Nav() {
+  return (
+    <nav>
+      <Link to="/">
+        {" "}
+        <img className={Styles.logo2} src={logo} alt="Logo" />
+      </Link>
+      <ul>
+        <li>
+          <Link to="./perfil" className={Styles.navButtons}>
+            Perfil
+          </Link>
+        </li>
+        <li>
+          <Link to="./sobre" className={Styles.navButtons}>
+            Sobre
+          </Link>
+        </li>
+        <li>
+          {" "}
+          <Link to="./projetos" className={Styles.navButtons}>
+            Projetos
+          </Link>
+        </li>
+        <li>
+          {" "}
+          <Link to="./contatos" className={Styles.navButtons}>
+            Contatos
+          </Link>
+        </li>
+      </ul>
+    </nav>
+  );
 }
 
 export default Nav;

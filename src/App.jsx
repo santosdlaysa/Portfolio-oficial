@@ -4,7 +4,7 @@ import Perfil from "./components/Perfil";
 import Sobre from "./components/Sobre";
 import Projetos from "./components/Projetos";
 import Contatos from "./components/Contatos";
-
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
       <Sobre />
       <Projetos />
       <Contatos />
-      <footer>Desenvolvido por Laysa Diniz 2023</footer>
+      <Footer />
     </>
   );
 }

@@ -173,8 +173,9 @@ h3 {
 }
 .container_project{
   display: flex;
-  margin-left: 9.5rem;
-  height: 25rem;
+  margin-left: 9rem;
+  height: auto;
+  flex-wrap: wrap;
 }
 .text_1 {
   color: var(--h3);
