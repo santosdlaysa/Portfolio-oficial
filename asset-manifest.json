@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/Portfolio-oficial/static/css/main.64238cc7.css",
-    "main.js": "/Portfolio-oficial/static/js/main.329f01f2.js",
+    "main.css": "/Portfolio-oficial/static/css/main.117bbbf0.css",
+    "main.js": "/Portfolio-oficial/static/js/main.331f12c5.js",
     "static/media/coffe-tela.png": "/Portfolio-oficial/static/media/coffe-tela.fba4884c1ead54616189.png",
     "static/media/visualpage.png": "/Portfolio-oficial/static/media/visualpage.e0cd9e4b73d8b2d90ec6.png",
+    "static/media/relogiojs.png": "/Portfolio-oficial/static/media/relogiojs.ee92a9c10b9e101b4c47.png",
     "static/media/Imagem-login.png": "/Portfolio-oficial/static/media/Imagem-login.ad88acc5c01ea2300c55.png",
     "static/media/Currículo - DEV.pdf": "/Portfolio-oficial/static/media/Currículo - DEV.f1ba88a6d1195f71011d.pdf",
     "static/media/instagram.png": "/Portfolio-oficial/static/media/instagram.776d16d0e9daa177afd5.png",
@@ -19,11 +20,11 @@
     "static/media/imght.svg": "/Portfolio-oficial/static/media/imght.c86e13d1898e8bbce843c44a9ed5541b.svg",
     "index.html": "/Portfolio-oficial/index.html",
     "static/media/icons8-vue-js.svg": "/Portfolio-oficial/static/media/icons8-vue-js.794e612aa9ab0124da8efae55eef549a.svg",
-    "main.64238cc7.css.map": "/Portfolio-oficial/static/css/main.64238cc7.css.map",
-    "main.329f01f2.js.map": "/Portfolio-oficial/static/js/main.329f01f2.js.map"
+    "main.117bbbf0.css.map": "/Portfolio-oficial/static/css/main.117bbbf0.css.map",
+    "main.331f12c5.js.map": "/Portfolio-oficial/static/js/main.331f12c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.64238cc7.css",
-    "static/js/main.329f01f2.js"
+    "static/css/main.117bbbf0.css",
+    "static/js/main.331f12c5.js"
   ]
 }
